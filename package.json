@@ -1,0 +1,20 @@
+{
+  "name": "multi-stream",
+  "version": "1.0.0",
+  "description": "Streams Combiner",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "transpile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/multi-stream.git"
+  },
+  "author": "Wen Chang",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.18",
+    "typescript": "^3.7.3"
+  }
+}
