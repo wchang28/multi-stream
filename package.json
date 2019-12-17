@@ -14,7 +14,9 @@
   "author": "Wen Chang",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^12.12.18",
     "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.18"
   }
 }
